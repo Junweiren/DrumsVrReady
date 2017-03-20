@@ -1,10 +1,17 @@
 fileFormatVersion: 2
 guid: 24a31649a8544d3458e884d2cf6d5d9b
-timeCreated: 1489954992
+timeCreated: 1490044111
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - mainSource: {instanceID: 0}
+  - snare: {fileID: 8300000, guid: 5e2370ad48603f04eac45744ab04667d, type: 3}
+  - hihat: {fileID: 8300000, guid: 9a556e7419c33d546ae8195cf49c121a, type: 3}
+  - tom1: {fileID: 8300000, guid: 65cd7476e14f5e6498ddc4681c3d2019, type: 3}
+  - tom2: {fileID: 8300000, guid: 70b3700d21444f34082842bba8786f04, type: 3}
+  - tom3: {fileID: 8300000, guid: ba9fb8b29607b98418851d2deb22a33e, type: 3}
+  - crash: {fileID: 8300000, guid: 73aaad13d09ab3e45b84985ce39555e5, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
